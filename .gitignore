@@ -141,3 +141,6 @@ x509.genkey
 /compile_commands.json
 # Documentation toolchain
 sphinx_*/
+
+# myself 
+linux_proj1_testcode/
